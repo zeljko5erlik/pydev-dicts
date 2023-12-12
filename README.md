@@ -1,0 +1,2 @@
+# pydev-dicts
+ Python rjecnici
